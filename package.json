@@ -1,5 +1,5 @@
 {
-  "name": "@TitanSnow/undefined",
+  "name": "@tttnns/undefined",
   "version": "1.0.0",
   "description": "A npm package that exports `undefined`",
   "main": "index.js",
