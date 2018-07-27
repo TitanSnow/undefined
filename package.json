@@ -1,0 +1,9 @@
+{
+  "name": "@TitanSnow/undefined",
+  "version": "1.0.0",
+  "description": "A npm package that exports `undefined`",
+  "main": "index.js",
+  "repository": "https://github.com/TitanSnow/undefined",
+  "author": "TitanSnow",
+  "license": "Unlicense"
+}
